@@ -13,7 +13,7 @@ To get this project up and running on your local machine, follow these steps:
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
-3. Download the image data from Kaggle and place the files in the data/ directory. The images can be downloaded from the HAM10000 dataset on Kaggle.
+3. Download the image data from Kaggle and place the files in the data/ directory. The images can be downloaded from the [HAM10000 dataset on Kaggle](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000).
 4. Launch the Jupyter notebook:
    ```bash
    jupyter notebook melanoma_detection.ipynb
