@@ -10,13 +10,12 @@ To get this project up and running on your local machine, follow these steps:
    ```bash
    git clone https://github.com/your-username/melanoma-detection.git
    cd melanoma-detection
-   
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
-   
-3. Download the image data from Kaggle and place the files in the data/ directory. The images can be downloaded from the [HAM10000 dataset on Kaggle](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000).
-  
+3. Download the image data from Kaggle and place the image files in the `data/` directory, or you can use the provided metadata file in the `data/` folder.
+- To download the images, visit the [HAM10000 dataset on Kaggle](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000) and download the images to the `data/sample_images/` directory.
+- The `data/HAM10000_metadata.csv` file is already included in the repository for reference if you prefer to work with the metadata alone.
 4. Launch the Jupyter notebook:
    ```bash
    jupyter notebook melanoma_detection.ipynb
