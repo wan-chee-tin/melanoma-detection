@@ -13,8 +13,9 @@ To get this project up and running on your local machine, follow these steps:
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
-3. Download the image data from Kaggle and place the image files in the `data/` directory, or you can use the provided metadata file in the `data/` folder.
-- To download the images, visit the [HAM10000 dataset on Kaggle](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000) and download the images to the `data/sample_images/` directory.
+3. Download the image data from Kaggle and place the image files in the `data/` directory, or you can use the provided sample images and metadata in the `data/` folder.
+- 15 sample images have been included in the `data/` directory for demonstration and testing purposes.
+- If you prefer to use the full image dataset, visit the [HAM10000 dataset on Kaggle](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000) and download the images to the `data/` directory.
 - The `data/HAM10000_metadata.csv` file is already included in the repository for reference if you prefer to work with the metadata alone.
 4. Launch the Jupyter notebook:
    ```bash
