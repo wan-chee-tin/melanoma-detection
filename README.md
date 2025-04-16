@@ -1,7 +1,4 @@
-## 🧬 Melanoma Detection and Classification
-This project applies fundamental data science techniques to detect and classify melanoma using image-based datasets. It involves data preprocessing, exploratory analysis, and the application of machine learning (ML) and deep learning (DL) models to classify skin lesions.
-
-## 📝 Project Overview
+## 🧬 Project Overview
 Skin cancer is one of the most common types of cancer, and melanoma is its deadliest form. Early detection significantly improves patient outcomes. This project uses image data and metadata from the HAM10000 dataset to train models that can differentiate between benign and malignant skin lesions.
 
 ## 🚀 How to Run
