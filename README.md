@@ -1,4 +1,4 @@
-## 🧬 Project Overview
+## 📖 Project Overview
 Skin cancer is one of the most common types of cancer, and melanoma is its deadliest form. Studies show that when melanoma is detected at an early stage, the chances of successful treatment and long-term survival increase significantly. However, diagnosing melanoma accurately and promptly can be challenging, as its appearance can vary widely, often resembling benign moles or lesions. This project uses metadata from the HAM10000 dataset to train models that can differentiate between benign and malignant skin lesions, offering a valuable tool for medical professionals in early diagnosis and treatment planning.
 
 ## 🚀 How to Run
