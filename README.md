@@ -1,6 +1,8 @@
 ## 📖 Project Overview
 Skin cancer is one of the most common types of cancer, and melanoma is its deadliest form. Studies show that when melanoma is detected at an early stage, the chances of successful treatment and long-term survival increase significantly. However, diagnosing melanoma accurately and promptly can be challenging, as its appearance can vary widely, often resembling benign moles or lesions. This project uses metadata from the HAM10000 dataset to train models that can differentiate between benign and malignant skin lesions, offering a valuable tool for medical professionals in early diagnosis and treatment planning.
 
+---
+
 ## 🚀 How to Run
 To get this project up and running on your local machine, follow these steps:
 1. Clone the repository:
@@ -18,16 +20,22 @@ To get this project up and running on your local machine, follow these steps:
    ```bash
    jupyter notebook melanoma_detection.ipynb
 
+---
+
 ## 📊 Dataset
 The HAM10000 dataset is used in this project. It includes:
 - 10,000 dermatoscopic images
 - Metadata such as lesion type, age, gender, and localization
+
+---
 
 ## 🔍 Exploratory Data Analysis
 A series of visualizations and statistical analyses were performed:
 - Distribution plots for lesion type, confirmation method, gender, and localization
 - Age-related visualizations: histograms, boxplots, and subset analysis for melanoma
 - Insightful visualizations created using Matplotlib and Seaborn
+
+---
 
 ## 🧹 Data Preprocessing
 Key preprocessing steps included:
@@ -38,6 +46,8 @@ Key preprocessing steps included:
 - Resampling for class balance
 - Splitting into training and test datasets
 
+---
+
 ## 🧠 Modeling
 Several ML and DL models were developed and compared:
 - Decision Tree
@@ -45,6 +55,8 @@ Several ML and DL models were developed and compared:
 - Support Vector Machine
 - k-Nearest Neighbors
 - Convolutional Neural Network
+
+---
 
 ## 📈 Evaluation
 - Model performance was evaluated using accuracy, confusion matrix, and AUC-ROC curves
