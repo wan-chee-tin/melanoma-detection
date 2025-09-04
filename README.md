@@ -7,7 +7,7 @@ Skin cancer is one of the most common types of cancer, and melanoma is its deadl
 To get this project up and running on your local machine, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Raxeira/melanoma-detection.git
+   git clone https://github.com/wan-chee-tin/melanoma-detection.git
    cd melanoma-detection
 2. Install the required dependencies:
    ```bash
